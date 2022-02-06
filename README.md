@@ -5,14 +5,21 @@ Currently the UI resides at /volumio/http/www (Classic UI). This is the "blue ve
 **List of files changed:**
 
 app/plugins/miscellanea/default.png
+
 app/plugins/miscellanea/default.jpg
+
 app/assets-common/myvolumio-avatar.svg
 
 www/styles/app-6304b38f04.css
+
 www/app/themes/volumio/assets/variants/volumio/fonts swapped the Lato font with SpaceGrotesk
+
 www/app/themes/volumio/assets/variants/volumio/favicons/favicon-pause.png
+
 www/app/themes/volumio/assets/variants/volumio/favicons/favicon-play.png
+
 www/app/themes/volumio/assets/variants/volumio/favicons/favicon.png
+
 www/app/themes/volumio/assets/variants/volumio/graphics/volumio-logo.png
 
 
