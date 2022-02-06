@@ -1,6 +1,6 @@
 # Volumio Classic UI
 
-Blue version of the classic Volumio web UI. Small changes in the CSS, just in color, and image edits to match the color style.
+Currently the UI residest at /volumio/http/www (Classic UI). This is the "blue version" with small changes in the CSS, mostlz in color, image edits to match the color style and a font swap.
 
 List of files changed:
 
