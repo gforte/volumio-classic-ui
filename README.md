@@ -1,4 +1,4 @@
-# Volumio Classic UI
+# Volumio Classic UI Web
 
 Currently the files reside at /volumio/http/www/ (Classic UI). I created this "blue version" making small changes in the CSS, mostly in color, some image edits to match the color selected and a font swap.
 
