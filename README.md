@@ -1,6 +1,6 @@
 # Volumio Classic UI
 
-Currently the UI resides at /volumio/http/www (Classic UI). This is the "blue version" with small changes in the CSS, mostlz in color, image edits to match the color style and a font swap.
+Currently the files reside at /volumio/http/www/ (Classic UI). I created this "blue version" making small changes in the CSS, mostly in color, some image edits to match the color selected and a font swap.
 
 **List of files changed:**
 
@@ -26,7 +26,7 @@ app/themes/volumio/assets/variants/volumio/graphics/volumio-logo.png
 
 
 
-**Examples:**
+**Screenshots:**
 
 ![Screenshot 2022-02-06 at 18 07 40](https://user-images.githubusercontent.com/15832252/152692433-86ea20be-0bc3-4be3-b6f7-06e71a8c1d1e.png)
 
